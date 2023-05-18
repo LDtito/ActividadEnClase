@@ -1,5 +1,5 @@
 var numeros
-
+var nombre;
 numeros=(prompt("Ingrese un Numero del 1 al 10"))
 
 switch (numeros){
