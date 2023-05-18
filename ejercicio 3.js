@@ -3,6 +3,7 @@ var promedio;
 var suma=0;
 var i=1;
 var apellido;
+var nombre;
 var nnotas=parseInt(prompt("Ingrese la cantidad de notas a promediar"))
 
 for (i=1; i<=nnotas;  i++){
