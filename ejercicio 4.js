@@ -1,5 +1,6 @@
 var numeros
 var nombre;
+var multiplicacion;
 numeros=(prompt("Ingrese un Numero del 1 al 10"))
 
 switch (numeros){
